@@ -92,18 +92,6 @@ StackEdit extends the standard Markdown syntax by adding extra **Markdown extens
 > **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
 
 
-## SmartyPants
-![For the love of cats: Top 10 cat facts @ University of Salford Students ...](https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png)
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
-
 ## KaTeX
 
 You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
@@ -142,3 +130,6 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+
+
+hahhahahahahhah
